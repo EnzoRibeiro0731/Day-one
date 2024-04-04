@@ -1,0 +1,2 @@
+# Meu primeiro repositório.
+*Tendo-se entendido de que este é o primiero projeto de um possível futuro dev, e com certeza haverá problemas e conto com o apoio de todos que estão dispostos a ajudar e explicar onde eu errei e me auxiliar a concertar e todos saímos ganhando nessa*
